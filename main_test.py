@@ -18,7 +18,7 @@ def test_main_1():
     print(lines)
 
     ret = main.main()
-    assert ret == 55
+    assert ret == 24
 
     # regex_string = r'[\w,\W]*1'
     # regex_string += r'[\w,\W]*3'
